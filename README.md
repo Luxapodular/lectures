@@ -1,2 +1,2 @@
 # lectures
-Lectures used in my pedagogy
+Lectures used in the pedagogy of Golan Levin.
